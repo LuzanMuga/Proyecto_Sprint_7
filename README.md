@@ -1,5 +1,4 @@
-# Proyecto_Sprint_7
-# Sprint 7 Project – Vehicles Explorer
+# Vehicles Explorer
 
 Este proyecto es una aplicación web hecha con **Streamlit** que explora un conjunto de datos de anuncios de vehículos usados en Estados Unidos (`vehicles_us.csv`).
 
